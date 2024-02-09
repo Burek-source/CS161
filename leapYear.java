@@ -6,7 +6,7 @@ Write a Java program with two int variables, year and month. The program should 
 
 Hint:
 
-A year is a leap year if it is divisible by 400 or if it is divisible by 4 and not divisible by 100. So, 1900 was a not a leap year, but 2000 and 2004 were.
+A year is a leap year if it is divisible by 400 or if it is divisible by 4 and not divisible by 100. So, 1900 was not a leap year, but 2000 and 2004 were.
 
 You also need to print an appropriate message (see sample 2) if the month is invalid.
 You must use the variable names given. Declare and initialise year and month on separate lines. Your output must match EXACTLY.
