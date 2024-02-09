@@ -1,6 +1,6 @@
 /*
 
-Leap Years
+Leap Year
 
 Write a Java program with two int variables, year and month. The program should print out how many days are in that month in that year.
 
