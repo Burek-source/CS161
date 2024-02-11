@@ -11,7 +11,6 @@ Make sure to test your program with another 4-digit number, but 1981 should be u
 Sample output
 
 The digits in the number 1981 are:
-
 1
 9
 8
